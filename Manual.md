@@ -1,261 +1,40 @@
-## WINGSPAN (page 1)
-
-Multi-Player
-
-Amount On Cards birds bonus Cards end-Of-Round Goals1 Point Each eggs food On Cardstucked Cardstotal
-
-A Competitive Bird-Collection, Engine-Building Game For 1-5 Players
-
-Designed By Elizabeth Hargrave
-
-Illustrated By Natalia Rojas, Ana María Martínez Jaramillo, And Beth Sobel
-
-Now featuring eco-friendlier custom cardboard trays and containers (instead of plastic)!
-
-You are bird enthusiasts—researchers, bird watchers, ornithologists, and collectors—seeking to discover and attract the best birds to your network of wildlife preserves. Each bird extends a chain of powerful combinations in one of your habitats. Each habitat focuses on a key aspect of the growth of your preserves: • Gain food tokens via custom dice in a birdfeeder dice tower • Lay eggs using marbled egg miniatures in a variety of colors • Expand your bird collection, drawing from hundreds of unique bird cards The winner is the player with the most points accumulated from birds, bonus cards, end-of-round goals, eggs, cached food, and tucked birds.
-
-
-
 ## Setup (page 2)
 
-### Global Components (page 2)
+### GLOBAL COMPONENTS (page 2)
 
 1. Bird cards. Shuffle the bird cards into a deck. Place it next to the bird tray, then populate the tray with 3 face-up bird cards.
 2. Supply. Place all food and egg tokens in the supply. These are tokens accessible to all players.
 3. Birdfeeder. Toss the food dice into the birdfeeder dice tower.
-
-
-
-
-4. Goal board. Choose which type of goals you will play with, and place the goal board on the table with that side facing up: i. Green: For a game with more direct competition for goals,
-
-choose the side that has 1st, 2nd, and 3rd place for each goal. This is the default.
-
-ii. Blue: For a game with less direct competition between players, choose the side that awards 1 point for each targeted item. This is good for new players.
-
-5. Goal tiles. Shuffle the goal tiles without looking at them (they're double-sided). Place 1 goal tile (random side up) on each of the four blank spaces on the goal board. Return extra goal tiles to the box. 6. Bonus cards. Shuffle the bonus cards into a deck and place it on
-
-## The Table.
-
-Player Setup A. Each player receives: • 1 player mat • 8 action cubes of one color • 2 random bonus cards • 5 random bird cards • 5 food tokens (1 of each type:
-
-,
-
-,
-
-,
-
-,
-
-)
+4. Goal board. Choose which type of goals you will play with, and place the goal board on the table with that side facing up:
+   - Green: For a game with more direct competition for goals, choose the side that has 1st, 2nd, and 3rd place for each goal. This is the default.
+   - Blue: For a game with less direct competition between players, choose the side that awards 1 point for each targeted item. This is good for new players.
+5. Goal tiles: Shuffle the goal tiles without looking at them (they're double-sided). Place 1 goal tile (random side up) on each of the four blank spaces on the goal board. Return extra goal tiles to the box. 6. Bonus cards. Shuffle the bonus cards into a deck and place it on the goal boards. Return extra goal tiles to the box.
+6. Bonus cards: Shuffle the bonus cards into the deck and place it on the table.
+   
+### PLAYER SETUP (Page 2)
+A. Each player receives:
+- 1 player mat
+- 8 action cubes of one color
+- 2 random bonus cards
+- 5 random bird cards
+- 5 food tokens (1 of each type)
 
 You may keep your hand of cards private or public throughout the game.
 
 B. Keep up to 5 bird cards and discard the others. For each bird card you keep, you must discard 1 food token. You will probably want to keep food tokens shown in the upper left of the bird cards you selected. For example, you might keep 2 bird cards and 3 food, or you might keep 4 bird cards and 1 food.
 
-C. Choose 1 bonus card to keep, and discard the other. You may
-
-look at your bonus cards while selecting which birds to keep (and vice versa).
+C. Choose 1 bonus card to keep, and discard the other. You may look at your bonus cards while selecting which birds to keep (and vice versa).
 
 D. Randomly select the first player and give them the first-player token.
 
-6
-
-1
-
-5
-
-4
-
-2
-
-3
-
-## A
-
-## D
-
-## B
-
-C
-
-WS_Rulebook_r.indd  WS_Rulebook_r.indd 
-
-// : PM // : PM
-
-This is a detailed rulebook, but you can learn the entire game by using the Swift-Start cards and guides. We recommend using these guides for your first game.
-
-## Yellow-Bellied Sapsucker Sphyrapicus Varius
-
-+
-
-3
-
-## 41Cm
-
-## When Activated: Gain 1
-
-## From The Supply.
-
-Sapsuckers drill rows of holes in trees, then they lap up the sap and the insects it attracts.
+Yellow-Bellied Sapsucker Sphyrapicus Varius
+> Sapsuckers drill rows of holes in trees, then they lap up the sap and the insects it attracts.
 
 TIP: When selecting bird cards, think about how they will help you get more cards or food early in the game. Brown powers can be especially helpful!
 
-## Birdcards_R20.Indd 166 Birdcards_R20.Indd 166
+### SWIFT-START GUIDES AND CARDS (Page 3)
 
-6/15/21 7:35 AM 6/15/21 7:35 AM
-
-## B R
-
-H a w k d e - W i n g B u t e o p l a t y p t e r u s o a d
-
-## American Redstart Setophaga Ruticilla
-
-+
-
-+
-
-## Canvasback Aythya Valisineria
-
-4
-
-4
-
-## 8 5 C M
-
-2
-
-## Vaux'S Swift Chaetura Vauxi
-
-## 20Cm
-
-i n
-
-## O
-
-## T
-
-## N
-
-d i c a ll c a c , r a y WHEN ACTIVATED: Gain 1 n d . a b ir h i s n o birdfeeder. p l y a h p the deck. a m i g g ri n u d e r r. ri o e t i n t s Redstarts get their name from the Old English word "steort," meaning tail.
-
-## E
-
-## O Ll
-
-## R
-
-1
-
-## H
-
-W H E N A C T I V A T E D : r. I f e f d u s o m
-
-## E
-
-## E
-
-## From The
-
-## 82Cm
-
-## E
-
-## T
-
-## E
-
-WHEN ACTIVATED: All players draw 1 from WHEN ACTIVATED: Tuck 1 hand behind this bird. If you do, gain 1 from the supply. The fastest recorded canvasback was flying 116 kilometers per hour. 6 / 9 / 2 1 6 / 9 / 2 1 William Sansom Vaux was a wealthy mineralogist and naturalist.
-
-## D
-
-## B Ir F R
-
-## N
-
-## T
-
-## Ti O
-
-## N
-
-## R
-
-## E
-
-## H
-
-## T
-
-## M O E R O F
-
-## N
-
-## E
-
-## E
-
-## S
-
-i s i n
-
-a w k it '
-
-h h i s w h il e
-
-## E
-
-## T
-
-## H
-
-## T
-
-## S
-
-## 31Cm
-
-4 : 1 9 P M 4 : 1 9 P M
-
-## From Your
-
-## W W
-
-## S S
-
-_ _
-
-## Ws_Ee_Birdswiftstart_R4.Indd 3 Ws_Ee_Birdswiftstart_R4.Indd 3
-
-1 1
-
-## E E
-
-## E E
-
-i n d d i n d d WS_EE_Birdswiftstart_r4.indd 2 WS_EE_Birdswiftstart_r4.indd 2 r d S w i r d S w i
-
-## _ _ Bird Bird
-
-t _ r 4 . t _ r 4 .
-
-6/9/21 4:19 PM 6/9/21 4:19 PM
-
-t S t a r t S t a r
-
-## S S
-
-## F F
-
-## Wiftstart_R4.Indd 4 Wiftstart_R4.Indd 4
-
-W S _ E E _ B i W S _ E E _ B i
-
-6/9/21 4:20 PM 6/9/21 4:20 PM
-
-6/9/21 4:20 P 6/9/21 4:20 P
-
-Swift-Start Guides and Cards: The easiest way to learn Wingspan is by following the Swift-Start guides. Distribute 1 guide per player clockwise around the table, starting with the guide labeled "Player 1." Proceed with all setup steps in this rulebook as normal, except for selecting birds and food tokens. Instead, the guides will instruct which cards and food each player starts with. This Swift-Start learning process uses the 10 Swift-Start cards marked with gray corners.
+The easiest way to learn Wingspan is by following the Swift-Start guides. Distribute 1 guide per player clockwise around the table, starting with the guide labeled "Player 1." Proceed with all setup steps in this rulebook as normal, except for selecting birds and food tokens. Instead, the guides will instruct which cards and food each player starts with. This Swift-Start learning process uses the 10 Swift-Start cards marked with gray corners.
 
 These player guides explain the 4 main actions to all players by walking them through their first few actions. There is no need for the 5th player to have a guide. The 5th player may proceed with all setup steps as normal and follow the examples of the other players. You may also use these guides with fewer than 4 players.
 
@@ -263,13 +42,7 @@ After learning the game, shuffle the 10 Swift-Start cards into the main deck. Th
 
 After following the Swift-Start guides to completion, take a look at the Quick-Reference Guide on page 2 of the Appendix. This will quickly help you reference the basic rules of the game.
 
-## M M
-
-WS_Rulebook_r.indd  WS_Rulebook_r.indd 
-
-// : PM // : PM
-
-## Overview
+## OVERVIEW (PAGE 4)
 
 Wingspan is played over 4 rounds. During each round, players take turns—proceeding clockwise—until each player has used all of their available action cubes.
 
