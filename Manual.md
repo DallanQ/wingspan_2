@@ -42,11 +42,17 @@ After learning the game, shuffle the 10 Swift-Start cards into the main deck. Th
 
 After following the Swift-Start guides to completion, take a look at the Quick-Reference Guide on page 2 of the Appendix. This will quickly help you reference the basic rules of the game.
 
-## OVERVIEW (PAGE 4)
+## OVERVIEW (Page 4)
 
 Wingspan is played over 4 rounds. During each round, players take turns—proceeding clockwise—until each player has used all of their available action cubes.
 
-Turn Structure On your turn, you will take 1 of 4 actions, as shown on the left side of your player mat:
+### Turn Structure (Page 4)
+On your turn, you will take 1 of 4 actions, as shown on the left side of your player mat:
+
+Play a bird from your hand
+Gain food and activate forest bird powers
+Lay eggs and activate grassland bird powers
+Draw bird cards and activate wetland bird powers
 
 DESIGNER'S NOTE: Your first few turns will be very simple as you work to attract some birds to your wildlife preserves. You may even select the same action multiple times, which is absolutely allowed! More detailed descriptions of the actions are found on pages 6-9.
 
@@ -54,165 +60,81 @@ To place a bird from your hand onto a habitat, place an action cube on the Play 
 
 The Gain Food, Lay Eggs, and Draw Bird Cards actions follow the same 3-step process (numbers noted on player mat image, below):
 
-1. Choose a habitat on your player mat and place an action cube on the leftmost exposed slot in that row. Gain the benefit of that slot. 2. Move your action cube from right to left, activating any birds with a brown "WHEN ACTIVATED" power in that row. Each power is optional.
-
+1. Choose a habitat on your player mat and place an action cube on the leftmost exposed slot in that row. Gain the benefit of that slot.
+2. Move your action cube from right to left, activating any birds with a brown "WHEN ACTIVATED" power in that row. Each power is optional.
 3. When the action cube reaches the far left, leave it there. Your turn is over.
 
 Play a bird from your hand Gain food and activate forest bird powers Lay eggs and activate grassland bird powers Draw bird cards and activate wetland bird powers
 
-3
-
-## Burrowing Owl Athene Cunicularia
-
-+
-
-5
-
-## 53Cm
-
-2
-
-WHEN ACTIVATED: Roll all dice not in birdfeeder. If any are from the supply on this bird.
-
-## , Cache 1
-
-These owls often use old prairie dog burrows for their underground nests.
-
-## Birdcards_R20.Indd 42 Birdcards_R20.Indd 42
-
-6/15/21 7:22 AM 6/15/21 7:22 AM
-
-1
-
-WS_Rulebook_r.indd  WS_Rulebook_r.indd 
-
-// : PM // : PM
-
-Round Structure When all players have placed all of their action cubes, the round is over. Follow these steps in order: 1. Remove all action cubes from your player mat. 2. Score the end-of-round goal for the round you just completed. 3. Discard all face-up bird cards on the bird tray and restock the
-
-## Bird Tray With Cards From The Deck.
-
+### Round Structure (Page 5)
+When all players have placed all of their action cubes, the round is over. Follow these steps in order: 
+1. Remove all action cubes from your player mat.
+2. Score the end-of-round goal for the round you just completed.
+3. Discard all face-up bird cards on the bird tray and restock the bird tray with cards from the deck.
 4. Rotate the first player token clockwise to the next player.
 
-Use 1 of your action cubes to mark your score on the end-of-round goal. As a result, you will have 1 fewer action cube to use each round: • Round 1: 8 turns per player • Round 2: 7 turns per player • Round 3: 6 turns per player • Round 4: 5 turns per player
+Use 1 of your action cubes to mark your score on the end-of-round goal. As a result, you will have 1 fewer action cube to use each round:
+- Round 1: 8 turns per player
+- Round 2: 7 turns per player
+- Round 3: 6 turns per player
+- Round 4: 5 turns per player
 
-Game End and Scoring The game ends at the conclusion of Round 4. Use the scorepad to add together the following: • Points for each face-up bird card on your player mat
-
-## Multi-Player
-
-(printed on the cards) • Points for each bonus card (printed on the cards)
-
+### Game End and Scoring (Page 5)
+The game ends at the conclusion of Round 4. Use the scorepad to add together the following:
+- Points for each face-up bird card on your player mat (printed on the cards)
+> The points are located on the right side corner of the cards
+- Points for each bonus card (printed on the cards)
 - Points for end-of-round goals (shown on goal board)
-
-1 point for each:
-
-» egg on a bird card » » card tucked under a bird card
-
-food token cached on a bird card
-
-## Amount On Cardsbirdsbonus Cardsend-Of-Round Goals1 Point Eacheggsfood On Cardstucked Cardstotal
+- 1 point for each:
+  - egg on a bird card
+  - food token cached on a bird card
+  - card tucked under a bird card
 
 The player who has the most points wins. In the case of a tie, the player with the most unused food tokens wins. If players are still tied, they share the victory.
 
 DESIGNER'S NOTE: Players have fewer actions as the game progresses, but the bird powers create powerful combinations as birds accumulate in each row of the player mats.
+| MULTI-PLAYER       |       |       |       |       |       |       |
+|--------------------|-------|-------|-------|-------|-------|-------|
+| **Birds**          |       |       |       |       |       |       |
+| **Bonus Cards**    |       |       |       |       |       |       |
+| **End-of-Round Goals** |   |       |       |       |       |       |
+| **Eggs**           |       |       |       |       |       |       |
+| **Food on Cards**  |       |       |       |       |       |       |
+| **Tucked Cards**   |       |       |       |       |       |       |
+| **TOTAL**          |       |       |       |       |       |       |
 
-## Painted Bunting Passerina Ciris
 
-+ +
-
-## Points
-
-5
-
-## 23Cm
-
-WHEN PLAYED: Draw 2 bonus cards and keep 1.
-
-Poachers sell these birds as pets, making it harder for wild populations to thrive.
-
-## Birdcards_R20.Indd 114 Birdcards_R20.Indd 114
-
-6/15/21 7:28 AM 6/15/21 7:28 AM
-
-WSEx_Scoresheet_r.indd 
-
-// : PM
-
-WS_Rulebook_r.indd  WS_Rulebook_r.indd 
-
-// : PM // : PM
-
-## The Four Actions
-
+## The Four Actions (Page 6)
 Each turn, you will take 1 action. This section describes each action in more detail.
 
-OPTION 1. Play a Bird From Your Hand Before choosing to play a bird from your hand, consider its habitat, food requirements, and egg cost. Each bird has habitat and food requirements, shown in the upper left-hand corner of the card. Additionally, there may be an egg cost shown at the top of the column in which you're playing the bird (there is no egg cost for the first column). If you cannot afford to pay the full cost, you cannot play the bird.
+### OPTION 1. Play a Bird From Your Hand
+Before choosing to play a bird from your hand, consider its habitat, food requirements, and egg cost. Each bird has habitat and food requirements, shown in the upper left-hand corner of the card. Additionally, there may be an egg cost shown at the top of the column in which you're playing the bird (there is no egg cost for the first column). If you cannot afford to pay the full cost, you cannot play the bird.
+> Habitat and Food are located at the top left corner of the card.
+#### When you choose to play a bird, do the following:
+1. Select a bird card in hand to play and place an action cube at the top of the column in which you will play the bird. Pay the corresponding egg cost (if any) by discarding eggs from any birds on your player mat. To play a bird in column 2 or 3, you must discard 1 egg to the egg supply. In columns 4 or 5, you must discard 2 eggs.
 
-## Habitat
-
-+
-
-## Burrowing Owl Athene Cunicularia
-
-When you choose to play a bird, do the following: 1. Select a bird card in hand to play and place an action cube at the top of the
-
-## Food
-
-5
-
-column in which you will play the bird. Pay the corresponding egg cost (if any) by discarding eggs from any birds on your player mat. To play a bird in column 2 or 3, you must discard 1 egg to the egg supply. In columns 4 or 5, you must discard 2 eggs.
-
-2. Pay the bird's food cost. Discard food tokens to the supply (these tokens must be from next to your
-
-WHEN ACTIVATED: Roll all dice not in birdfeeder. If any are from the supply on this bird.
-
-## , Cache 1
-
-## 53Cm
-
-player mat, not food tokens cached on bird cards, a concept that will be explained later). The 5 types of food are:
-
-These owls often use old prairie dog burrows for their underground nests.
-
-## Birdcards_R20.Indd 42 Birdcards_R20.Indd 42
-
-6/15/21 7:22 AM 6/15/21 7:22 AM
-
-## Invertebrate
-
-## Seed
-
+2. Pay the bird's food cost. Discard food tokens to the supply (these tokens must be from next to your player mat, not food tokens cached on bird cards, a concept that will be explained later). The 5 types of food are:
+- Invertebrate
+- Seed
+- Fish
+- Fruit
+- Rodent
 Wild: If a bird's food requirement includes a wild icon, you can use any of the 5 types of food for it.
-
-## Fish
-
-## Fruit
-
-## Rodent
-
-no food: A crossed-out circle means a bird does not have a food cost.
+No food: A crossed-out circle means a bird does not have a food cost.
+Or: This icon in bird costs and other places in Wingspan means "or" (e.g., pay 1 fish or 1 fruit).
+> Wild symbol is a circle with 5 colors (looks like a 5-colored wheel)
+> 1 wild + 1 wild = 1 wild
+When playing birds, you may spend any 2 food tokens as if they are any 1 food token. This exchange cannot be used during other parts of the game. For example, if you need 1 fish, you could use any other 2 food tokens instead.
+3. Place the bird card on the leftmost exposed slot in its corresponding habitat and move your action cube to the left side of the PLAY A BIRD row. The three habitats are:
+- Forest
+- Grassland
+- Wetland
+If multiple habitat symbols are shown on the bird card, you can choose which habitat (row) to place it in. Your player mat limits you to a maximum of 5 birds in each habitat.
+4. If the bird has a power that reads, "WHEN PLAYED," you may use that power. Other powers (in brown and pink) are not used when the bird is played. Playing a bird is the only action that does not activate a row of birds.
 
 Designer's Note: These food types are very generalized. For example, the symbol for invertebrates is a caterpillar, but some invertebrate-eaters specialize in flying or swimming insects instead (or shellfish).
 
-/
 
-Or: This icon in bird costs and other places in Wingspan means "or" (e.g., pay 1 fish or 1 fruit).
-
-=
-
-When playing birds, you may spend any 2 food tokens as if they are any 1 food token. This exchange cannot be used during other parts of the game. For example, if you need 1 fish, you could use any other 2 food tokens instead.
-
-3. Place the bird card on the leftmost exposed slot in its corresponding habitat and move your action
-
-cube to the left side of the PLAY A BIRD row. The three habitats are:
-
-forest If multiple habitat symbols are shown on the bird card, you can choose which habitat (row) to place it in. Your player mat limits you to a maximum of 5 birds in each habitat.
-
-## Grassland
-
-4. If the bird has a power that reads, "WHEN PLAYED," you may use that power. Other powers (in brown and pink) are not used when the bird is played. Playing a bird is the only action that does not activate a row of birds.
-
-## Wetland
 
 WS_Rulebook_r.indd  WS_Rulebook_r.indd 
 
