@@ -134,137 +134,66 @@ If multiple habitat symbols are shown on the bird card, you can choose which hab
 
 Designer's Note: These food types are very generalized. For example, the symbol for invertebrates is a caterpillar, but some invertebrate-eaters specialize in flying or swimming insects instead (or shellfish).
 
+### OPTION 2. Gain Food and Activate Forest Bird Powers (Page 7)
+Food is primarily used to play bird cards. Your options for which food to gain are shown on the dice in the birdfeeder, which will repeatedly get depleted and refilled throughout the game.
 
+#### When you choose to gain food, do the following: (Page 7)
+1. Place an action cube in the leftmost exposed slot in the "gain food" row on your player mat and gain the amount of food shown from dice you select from the birdfeeder.
 
-WS_Rulebook_r.indd  WS_Rulebook_r.indd 
+For each food that you gain (1 food per die icon):
+- Remove a die from the birdfeeder and put it on the table.
+- Gain a food token matching the icon on the die and place it next to your player mat. Your food tokens are public information.
 
-// : PM // : PM
-
-OPTION 2. Gain Food and Activate Forest Bird Powers Food is primarily used to play bird cards. Your options for which food to gain are shown on the dice in the birdfeeder, which will repeatedly get depleted and refilled throughout the game.
-
-When you choose to gain food, do the following: 1. Place an action cube in the leftmost exposed slot in the "gain food" row on your player mat and gain the amount of food shown from dice you select from the birdfeeder.
-
-For each food that you gain (1 food per die icon): • Remove a die from the birdfeeder and put it on the table. • Gain a food token matching the icon on the die and place it next to your player mat. Your food tokens are public information.
-
-You always gain 1 food token per die. With the die face that shows
-
-## , Gain 1 Token Of Either Type (Not 2 Tokens).
+You always gain 1 food token per die. With the die face that shows gain 1 token of either type (not 2 tokens).
 
 2. If the slot where you placed your action cube shows a card-to- food bonus conversion, you may discard at most 1 bird card from your hand to gain an additional food. This is optional. When you gain this extra food, you must choose among the dice that are remaining in the birdfeeder.
 
 3. Activate any brown powers on your forest birds, from right to left. All powers are optional. End your turn by placing your action cube on the left side of the "gain food" row.
 
-## Blue-Gray Gnatcatcher Polioptila Caerulea
-
-1
-
-## 15Cm
-
-## When Activated: Gain 1
-
-## From The Supply.
-
-Gnatcatchers' breeding range is steadily shifting north with climate change.
-
 Example: Gain 1 food token from a die, then you may discard 1 bird card to gain another food token from a die. Next, you may activate the power on the bird card.
+> Power is located at the bottom part of the card.
 
-## Blue-Gray Gnatcatcher Polioptila Caerulea
+#### Managing the birdfeeder (Page 7)
+The birdfeeder has a tray to hold the 5 food dice. The dice removed from the birdfeeder when a player gained food will remain outside the tray until the birdfeeder is refilled.
 
-1
+If the birdfeeder tray is ever empty, throw all 5 dice back in. If the dice in the tray all show the same face (including if there is only 1 die) and you are about to gain food from the birdfeeder for any reason, you may first throw all 5 dice back into the birdfeeder. (counts as its own unique face.)
 
-## Power
+#### Managing food tokens (Page 7)
+There is no limit on how many food tokens you can have by your mat or on your birds (some bird cards allow you to cache food tokens on them until the end of the game), nor is there a limit on food tokens in the supply. In the unlikely event that any type of food token is unavailable in the supply, use a temporary substitute.
 
-## 15Cm
+### OPTION 3. Lay Eggs and Activate Grassland Bird Powers (Page 8)
+Eggs are part of the cost of playing bird cards in columns 2 – 5. Also, each egg on the bird cards on your player mat is worth 1 point at the end of the game.
 
-## When Activated: Gain 1
-
-## From The Supply.
-
-Gnatcatchers' breeding range is steadily shifting north with climate change.
-
-Managing the birdfeeder The birdfeeder has a tray to hold the 5 food dice. The dice removed from the birdfeeder when a player gained food will remain outside the tray until the birdfeeder is refilled.
-
-If the birdfeeder tray is ever empty, throw all 5 dice back in. If the dice in the tray all show the same face (including if there is only 1 die) and you are about to gain food from the birdfeeder for any reason, you may first throw all 5 dice back into the birdfeeder. (
-
-## Counts As Its Own Unique Face.)
-
-## Birdcards_R20.Indd 35 Birdcards_R20.Indd 35
-
-Managing food tokens There is no limit on how many food tokens you can have by your mat or on your birds (some bird cards allow you to cache food tokens on them until the end of the game), nor is there a limit on food tokens in the supply. In the unlikely event that any type of food token is unavailable in the supply, use a temporary substitute.
-
-6/15/21 7:22 AM 6/15/21 7:22 AM
-
-WS_Rulebook_r.indd  WS_Rulebook_r.indd 
-
-// : PM // : PM
-
-OPTION 3. Lay Eggs and Activate Grassland Bird Powers Eggs are part of the cost of playing bird cards in columns 2 – 5. Also, each egg on the bird cards on your player mat is worth 1 point at the end of the game.
-
-When you choose to lay eggs, do the following: 1. Place an action cube in the leftmost exposed slot in the "lay eggs"
-
-## Row On Your Player Mat And Lay That Number Of Eggs.
+#### When you choose to lay eggs, do the following: (Page 8)
+1. Place an action cube in the leftmost exposed slot in the "lay eggs" row on your player mat and lay that number of eggs.
 
 To lay an egg, gain an egg token from the supply (color doesn't matter) and place it on a bird card that has space for it, according to its egg limit. The egg will stay there for the rest of the game, unless discarded.
 
 You can lay eggs on any combination of birds (including all on 1 bird), but each bird has an egg limit. A bird's egg limit is shown by the egg icons. A bird card can never hold more than this number of eggs.
-
-## Nest Type
-
-## Egg Limit
-
-## Western Meadowlark Sturnella Neglecta
-
-+
-
-2
-
-## 38Cm
-
-WHEN ACTIVATED: All players lay 1 bird. You may lay 1 any 1
-
-## On On 1 Additional
-
-## Bird.
-
-This pretty bird also has a beautiful flute-like song.
+> Nest Type is located at the left side of the card.
+> Egg Limit is located just beneath the Nest Type
 
 It is possible that you will have more capacity to lay eggs (based on your player mat) than you have spaces on your birds. Any excess beyond your egg limit is lost.
 
-## Birdcards_R20.Indd 155 Birdcards_R20.Indd 155
-
-6/15/21 7:33 AM 6/15/21 7:33 AM
-
-2. If the slot where you placed your action cube shows a food-to-
-
-egg bonus conversion, you may pay at most 1 food token to lay an additional egg. This is optional.
-
-## Western Meadowlark Sturnella Neglecta
-
-2
-
-## 38Cm
-
-WHEN ACTIVATED: All players lay 1 bird. You may lay 1 any 1
-
-## On On 1 Additional
-
-## Bird.
-
+2. If the slot where you placed your action cube shows an egg-to-card bonus conversion, you may pay at most 1 food token to lay an additional egg. This is optional.
 Example: Lay 2 eggs, then you may pay 1 food to lay another egg. Next, you may activate the power on the bird card.
 
 3. Activate any brown powers on your grassland birds, from right to left. All powers are optional. End your turn by placing your action cube on the left side of the "lay eggs" row.
 
-Managing egg tokens There is no limit to the egg supply. In the unlikely event that no eggs remain in the supply, use a temporary substitute.
+#### Managing egg tokens (Page 8)
+There is no limit to the egg supply. In the unlikely event that no eggs remain in the supply, use a temporary substitute.
 
-Types of nests Each bird has a nest icon beneath its score. These nest icons can be important for end-of-round goals and bonus cards. The 4 types of nests are:
+#### Types of nests (Page 8)
+Each bird has a nest icon beneath its score. These nest icons can be important for end-of-round goals and bonus cards. The 4 types of nests are:
 
-## Platform
-
-## Bowl
-
-## Cavity
-
-## Ground
+- Platform
+> Looks like firewood
+- Bowl
+> Looks like a cup oftea
+- Cavity
+> Looks like a mug with hole at the center
+- Ground
+> Looks like eggs
 
 Star nests are wild. (These birds build unusual nests that don't fit into the four standard types.) These can be powerful, because they can match any other nest type for goals, bonus cards, and bird powers.
 
@@ -278,7 +207,7 @@ OPTION 4. Draw Bird Cards and Activate Wetland Bird Powers The cards available f
 
 When you choose to draw cards, do the following: 1. Place an action cube in the leftmost exposed slot in the "draw cards" row on your player mat, and draw the number of cards shown there from either the face-up cards on the bird tray or the bird deck. There is no hand limit.
 
-2. If the slot where you placed your action cube shows an egg-to-card bonus conversion, you may 1
+
 
 2. If the slot where you placed your action cube shows an egg-to-card bonus conversion, you may 1
 
