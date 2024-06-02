@@ -199,384 +199,96 @@ Star nests are wild. (These birds build unusual nests that don't fit into the fo
 
 Designer's Note: Egg limits in Wingspan are all proportionate to the number of eggs birds actually lay … but scaled down for the game. Birds with a maximum of 6 eggs may actually lay 15 or more eggs in a year!
 
-WS_Rulebook_r.indd  WS_Rulebook_r.indd 
+### OPTION 4. Draw Bird Cards and Activate Wetland Bird Powers (Page 9)
+The cards available for you to draw are the 3 face-up cards on the bird tray and the top card of the bird deck.
 
-// : PM // : PM
+#### When you choose to draw cards, do the following: (Page 9)
+1. Place an action cube in the leftmost exposed slot in the "draw cards" row on your player mat, and draw the number of cards shown there from either the face-up cards on the bird tray or the bird deck. There is no hand limit.
 
-OPTION 4. Draw Bird Cards and Activate Wetland Bird Powers The cards available for you to draw are the 3 face-up cards on the bird tray and the top card of the bird deck.
-
-When you choose to draw cards, do the following: 1. Place an action cube in the leftmost exposed slot in the "draw cards" row on your player mat, and draw the number of cards shown there from either the face-up cards on the bird tray or the bird deck. There is no hand limit.
-
-
-
-2. If the slot where you placed your action cube shows an egg-to-card bonus conversion, you may 1
-
-## Common Yellowthroat Geothlypis Trichas
-
-## Common Yellowthroat Geothlypis Trichas
-
-## 18Cm
-
-## 18Cm
-
-## When Activated: Draw 2 Discard 1 Turn.
-
-. If you do,
-
-## From Your Hand At The End Of Your
-
-## When Activated: Draw 2 Discard 1 Turn.
-
-. If you do,
-
-## From Your Hand At The End Of Your
-
-This was one of the first American birds to be cataloged by Linnaeus, in 1766.
-
-This was one of the first American birds to be cataloged by Linnaeus, in 1766.
+2. If the slot where you placed your action cube shows an egg-to-card bonus conversion, you may discard at most 1 egg from a bird on your mat to draw an additional card. This is optional. Remove 1 egg from a bird cards and return it to the egg supply.
 
 Example: Draw 1 bird card, then you may discard 1 egg to draw another card. Next, you may activate the power on the bird card.
 
-## Birdcards_R20.Indd 64 Birdcards_R20.Indd 64
-
-6/15/21 7:24 AM 6/15/21 7:24 AM
-
 3. Activate any brown powers on your wetland birds, from right to left. All powers are optional. End your turn by placing your action cube on the left side of the "draw cards" row.
 
-Managing the bird deck As you draw face-up cards, they are not immediately refilled. Instead, wait until the end of your turn before refilling empty spaces on the bird tray. If the face-down deck is ever emptied during the game, reshuffle all discarded bird cards to form a new deck.
+#### Managing the bird deck (Page 9)
+As you draw face-up cards, they are not immediately refilled. Instead, wait until the end of your turn before refilling empty spaces on the bird tray. If the face-down deck is ever emptied during the game, reshuffle all discarded bird cards to form a new deck.
 
 At the end of each round, discard any remaining face-up cards and replenish them with 3 new bird cards. The discard pile is kept face-up.
 
 Designer's Note: Wingspan includes 180 of the 914 species of birds found in North America. The map at the bottom of each bird card shows in which continents it lives.
 
-WS_Rulebook_r.indd  WS_Rulebook_r.indd 
+## Bird Powers (Page 10)
 
-// : PM // : PM
+### Powers on bird cards fall into 3 categories: (Page 10)
 
-## Bird Powers
+#### WHEN ACTIVATED (brown): (Page 10)
+These powers may be activated from right to left whenever you use the corresponding habitat.
 
-Powers on bird cards fall into 3 categories:
+#### Cache: (Page 10)
+This refers to putting a food token on a bird (the bird is saving the food for later). You cannot spend that food token; instead, it's worth 1 VP at end of game. If you run out of food tokens, you can cache cards instead (use discarded cards).
+> The American Kestrel bird is located at the center of the card.
+> This indicates that the bird is a predator
+> WHEN ACTIVATED: Roll all dice not in birdfeeder. If any are from the supply on this bird.
 
-WHEN ACTIVATED (brown): These powers may be activated from right to left whenever you use the corresponding habitat.
-
-Cache: This refers to putting a food token on a bird (the bird is saving the food for later). You cannot spend that food token; instead, it's worth 1 VP at end of game. If you run out of food tokens, you can cache cards instead (use discarded cards).
-
-This indicates that the bird is
-
-## A Predator.
-
-5
-
-## American Kestrel Falco Sparverius
-
-+
-
-## 56Cm
-
-WHEN ACTIVATED: Roll all dice not in birdfeeder. If any are from the supply on this bird.
-
-## , Cache 1
-
-Kestrels track rodents by their urine and will cache surplus kills for later.
-
-5
-
-## American White Pelican Pelecanus Erythrorhynchos
-
-+
-
-274cm
-
-## When Activated: Discard A 2
-
-## From The Deck Behind This Bird.
-
-to tuck
-
-Pelicans work together to herd fish and then scoop them up.
-
-Wingspan: The wingspan of each bird is used for comparison for some bird abilities.
+#### ONCE BETWEEN TURNS (pink): (Page 10)
+These powers may be triggered on opponents' turns. You can only use a pink power once between each of your own turns (if an opponent triggers it). We recommend telling other players what the power is, and what activates it. Players should help each other notice when a bird with a pink power should be activated.
+> Eastern Kingbird is located at the center of the card.
+> The kingbird displays its orange crown while defending its territory.
+> Wingspan: The wingspan of each bird is used for comparison for some bird abilities.
 
 This indicates that the bird's power involves tucking other bird cards under it to represent the creation of a flock. Each of these tucked cards are worth 1 VP at end of game.
 
-WHEN PLAYED (white): These powers may be activated only when a bird is played (never again after you play the bird).
-
-## Birdcards_R20.Indd 7 Birdcards_R20.Indd 7
-
-6/15/21 7:19 AM 6/15/21 7:19 AM
-
-## Birdcards_R20.Indd 10 Birdcards_R20.Indd 10
-
-6/15/21 7:19 AM 6/15/21 7:19 AM
-
-ONCE BETWEEN TURNS (pink): These powers may be triggered on opponents' turns. You can only use a pink power once between each of your own turns (if an opponent triggers it). We recommend telling other players what the power is, and what activates it. Players should help each other notice when a bird with a pink power should be activated.
-
-## Eastern Kingbird Tyrannus Tyrannus
-
-/
-
-2
-
-## 38Cm
-
-ONCE BETWEEN TURNS: When another player plays a bird in their the supply.
-
-## , Gain 1
-
-## From
-
-The kingbird displays its orange crown while defending its territory.
-
-## Mountain Bluebird Sialia Currucoides
-
-+
-
-4
-
-## 36Cm
-
-WHEN PLAYED: Play an additional bird in your
-
-. Pay its normal cost.
-
-These birds can be found from prairies up to alpine zones above treeline.
-
-## Birdcards_R20.Indd 71 Birdcards_R20.Indd 71
-
-6/15/21 7:24 AM 6/15/21 7:24 AM
-
-## Birdcards_R20.Indd 104 Birdcards_R20.Indd 104
+#### WHEN PLAYED (white): (Page 10)
+These powers may be activated only when a bird is played (never again after you play the bird).
+> Mountain bluebird is located at the center of the card
+> WHEN PLAYED: Play on additional bird in your card. Pay its normal cost
+> These birds can be found from prairies up to alpine zones above treeline.
 
 The Appendix contains descriptions of all bird powers.
 
 Bird powers are always optional. For example, if you do not want to spend a card by tucking it under a flocking bird, you do not have to do so.
 
-6/15/21 7:28 AM 6/15/21 7:28 AM
+## End Of The Round (Page 11)
+When players have placed all their available action cubes (1 cube per turn), the round is over. At round end:
+1. Remove all action cubes from your player mat.
+2. Score the end-of-round goal for the round you just completed.
+3. Discard all face-up bird cards on the bird tray and replenish them.
+4. Rotate the first player token clockwise to the next player.
 
-WS_Rulebook_r.indd  WS_Rulebook_r.indd 
+### Scoring End-of-Round Goals (Page 11)
+The end-of-round goals are based on how many birds or eggs you have in a given habitat or nest type. To indicate the points you score from that goal, each player must place an action cube on the goal board (even if you score 0 points). The board has 2 sides, each using a different scoring method. Green is the default, but blue is good for new players.
 
-// : PM // : PM
-
-## End Of The Round
-
-When players have placed all their available action cubes (1 cube per turn), the round is over. At round end: 1. Remove all action cubes from your player mat. 2. Score the end-of-round goal for the round you just completed. 3. Discard all face-up bird cards on the bird tray and replenish them. 4. Rotate the first player token clockwise to the next player.
-
-Scoring End-of-Round Goals The end-of-round goals are based on how many birds or eggs you have in a given habitat or nest type. To indicate the points you score from that goal, each player must place an action cube on the goal board (even if you score 0 points). The board has 2 sides, each using a different scoring method. Green is the default, but blue is good for new players.
-
-Green: Majority of the targeted item This method uses the side of the goal board that has spaces for 1st, 2nd, and 3rd place.
-
-1
-
-4
-
-## T S O M
-
-## D N U O R
-
-## 1St Place
-
-2
-
-5
-
-## T S O M
-
-## D N U O R
-
-## 1St Place
-
-1
-
-## 2Nd Place
-
-2
-
-## 2Nd Place
-
-0
-
-## 3Rd Place
-
-1
-
-## 3Rd Place
+#### Green: Majority of the targeted item (Page 11)
+This method uses the side of the goal board that has spaces for 1st, 2nd, and 3rd place.
 
 At the end of the round, count your quantity of the targeted item. Players compare their results and place their action cubes based on their rank order.
-
-3
-
-## D N U O R
-
-4
-
-## D N U O R
-
-## Ws_Goalmat_R2.Indd 1
-
-## T S O M
-
-## T S O M
-
-6
-
-## 1St Place
-
-## 7 1St Place
-
-3
-
-## 2Nd Place
-
-## 4 2Nd Place
-
-2
-
-## 3Rd Place
-
-## 3 3Rd Place
 
 If players tie, place both cubes on the tied place, and do not award the next place. At game end, you will add the points for that place and the next place(s), then divide by the number of players who tied and round down (4th place scores 0 points).
 
 For example, when using the goal that scores 5, 2, or 1 points, if two players tie for 1st place, each gets 3 points (5 + 2 divided by 2 players, rounded down). Do not award 2nd place to another player.
 
-0
-
-0
-
-0
-
-0
-
-8/2/18 6:50 PM
-
 You must have at least 1 of the targeted items to score points for a goal. For example, you must have at least 1 grassland bird to score points for the "most birds in the grassland habitat" goal.
 
 If you finish in 4th or 5th place, you must still place an action cube on the goal board in the space marked 0.
 
-Blue: One point per targeted item This method uses the side of the goal board that has spaces labeled 5-4-3-2-1-0 next to the space for each goal.
-
-1
-
-h c a e
-
-## D N U O R
-
-1
-
-2
-
-h c a e
-
-## D N U O R
-
-5
-
-## Max
-
-5
-
-## Max
-
-4
-
-4
-
-3
-
-3
-
-2
-
-2
-
-3
-
-h c a e
-
-2
-
-3
-
-4
-
-5
-
-## D N U O R
+#### Blue: One point per targeted item (Page 11)
+This method uses the side of the goal board that has spaces labeled 5-4-3-2-1-0 next to the space for each goal.
 
 At the end of the round, count your quantity of the targeted item. Score 1 point per item, with a maximum of 5 points. Use an action cube to mark your score on the goal. If you do not have any of that item, you must still place an action cube on the goal board in the space marked 0.
 
-## Max
-
-1
-
-4
-
-h c a e
-
-2
-
-## 5 Max
-
-4
-
-3
-
-## D N U O R
-
-1
-
-## Ws_Goalmat_R2.Indd 2
-
-1
-
-1
-
-1
-
-1
-
-0
-
-0
-
-0
-
-0
-
-8/2/18 6:50 PM
-
 For Game-end scoring, see page 5. For details on each goal, see appendix.
 
-## Bonus Cards
+## Bonus Cards (Page 11)
 
 As described in Setup, each player starts the game with 1 bonus card (selected from 2 random cards). There are also several birds in the deck that allow you to gain additional bonus cards.
 
 At end of game, score the bonus cards you have in your hand. See the Appendix for more information about scoring each type of bonus card.
 
-WS_Rulebook_r.indd  WS_Rulebook_r.indd 
+## Credits (Page 12)
 
-// : PM // : PM
-
-## Credits
-
-- Bird information comes from the All About Birds website by the Cornell Lab of Ornithology (allaboutbirds.org), the Audubon Guide to
-
-North American Birds (www.audubon.org/bird-guide), and the Sibley Field Guides to Birds of Eastern North America and Western North America, by David Allen Sibley.
-
-- Tower Rex (towerrex.com) designed the birdfeeder dice tower. • Photographic sources for the birds come from Glenn Bartley, Alan Murphy, Roman T. Brewka, Rob Palmer, and Peter Green • Prints of the birds and other illustrations can be found at Redandbluedesigns.com. • Typeface Cardenio Modern designed by Nils Cordes, nilscordes.com.
-
-WANT TO WATCH A HOW-TO-PLAY VIDEO? Go to stonemaiergames.com/games/wingspan/videos
-
-WANT THE RULES IN ANOTHER LANGUAGE? Download rules and guides in dozens of languages at stonemaiergames.com/games/wingspan/rules
-
-HAVE A QUESTION WHILE PLAYING OR A STORY TO SHARE? Post it on the Wingspan Facebook group, mention it on Boardgamegeek, or tweet it to @stonemaiergames
-
-NEED A REPLACEMENT PART? Request it at stonemaiergames.com/replacement-parts
-
-WANT TO STAY IN TOUCH? Subscribe to monthly updates at stonemaiergames.com/e-newsletter
-
-© Stonemaier LLC. Wingspan is a trademark of Stonemaier LLC. All Rights Reserved.
-
-WS_Rulebook_r.indd  WS_Rulebook_r.indd 
-
-// : PM // : PM
+- Bird information comes from the All About Birds website by the Cornell Lab of Ornithology (allaboutbirds.org), the Audubon Guide to North American Birds (www.audubon.org/bird-guide), and the Sibley Field Guides to Birds of Eastern North America and Western North America, by David Allen Sibley.
+- Tower Rex (towerrex.com) designed the birdfeeder dice tower.
+- Photographic sources for the birds come from Glenn Bartley, Alan Murphy, Roman T. Brewka, Rob Palmer, and Peter Green
+- Prints of the birds and other illustrations can be found at Redandbluedesigns.com.
+- Typeface Cardenio Modern designed by Nils Cordes, nilscordes.com.
